@@ -2,7 +2,7 @@
 
 Site pessoal em formato de currículo, desenvolvido como projeto final de um curso de **HTML e CSS**. Reúne uma apresentação, informações sobre mim, meus projetos e formas de contato.
 
-🔗 **Acesse o site:** [SEU-USUARIO.github.io/NOME-DO-REPOSITORIO](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)
+🔗 **Acesse o site:** https://pedrolucas-pf.github.io/
 
 ---
 
